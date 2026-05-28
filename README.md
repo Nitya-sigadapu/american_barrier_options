@@ -215,7 +215,7 @@ Includes:
 
 Deployment Link:
 
-[American & Barrier Option Pricing App](https://americanbarrieroptions-phtwj55ba4bjo4sjb2myjr.streamlit.app/?utm_source=chatgpt.com)
+[American & Barrier Option Pricing App](https://americanbarrier-nu6uyaaja47gznizdmfaeb.streamlit.app/)
 
 ---
 
